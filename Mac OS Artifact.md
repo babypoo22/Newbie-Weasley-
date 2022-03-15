@@ -1,7 +1,8 @@
 맥OS X
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Autoruns : /Users/username(사용자 계정)/Library/Preferences/loginwindows.plist
-	 /Users/username(사용자 계정)/Library/Preferences/com.apple.loginitem.plist
+
+/Users/username(사용자 계정)/Library/Preferences/com.apple.loginitem.plist
 
 Applications : /Applications/
 
@@ -22,8 +23,10 @@ Network : /Library/Preferences/SystemConfiguration/com.apple.network.indentifica
 Public : /Users/username(사용자 계정)/Public/
 
 Recent : /Users/username(사용자 계정)/Library/Preferences/com.apple.Preview.LSSharedFileList.plist
-           /Users/username(사용자 계정)/Library/Preferences/com.apple.recentitems.plist
-           /Users/username(사용자 계정)/Library/Preferences/com.apple.TextEdit.LSSharedFileList.plist
+
+/Users/username(사용자 계정)/Library/Preferences/com.apple.recentitems.plist
+
+/Users/username(사용자 계정)/Library/Preferences/com.apple.TextEdit.LSSharedFileList.plist
 
 OS Information : /System/Library/CoreServices/SystemVersion.plist
 
